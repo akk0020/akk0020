@@ -1,4 +1,4 @@
-<p align="center">## Bootcamp & Beyond -- # [Andrew Kim](https://github.com/)</p>
+# <p align="center">Bootcamp & Beyond -- [Andrew Kim](https://github.com/)</p>
 
 ## Full Stack Web Developer In Progress
 
