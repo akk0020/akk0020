@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bootcamp & Beyond -- Andrew Kim
 
-<!--
-**akk0020/akk0020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer In Progress
 
-Here are some ideas to get you started:
+wrapped up bootcamp and am continuing to level up my repos.
+love coffee / adapt quickly / love to learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Just wrapped up my coding bootcamp  
+📈 Currently leveling up my repos and sharpening my skills
+
+---
+
+☕ Lover of coffee  
+⚡ Quick to adapt  
+📚 Always hungry to learn
+
+
