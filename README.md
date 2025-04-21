@@ -1,6 +1,6 @@
 # <p align="center">Bootcamp & Beyond -- [Andrew Kim](https://github.com/)</p>
 
-## Full Stack Web Developer In Progress
+## <p align="right">Full Stack Web Developer In Progress</p>
 
 🎓 Just wrapped up my coding bootcamp.    
 📈 Currently leveling up my repos and sharpening my skills.  
@@ -9,6 +9,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-AndrewKim-blue?logo=github)
 ![Status](https://img.shields.io/badge/Status-Learning-informational)
 
+![image](https://github.com/user-attachments/assets/3e3f182c-de48-48ef-978a-adf0dc0ea0a7)
 
 ---
 
