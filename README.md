@@ -2,8 +2,8 @@
 
 ## Full Stack Web Developer In Progress
 
-🎓 Just wrapped up my coding bootcamp.  
-📈 Currently leveling up my repos and sharpening my skills.
+🎓 Just wrapped up my coding bootcamp.    
+📈 Currently leveling up my repos and sharpening my skills.  
 💥 Enjoy ***backend development***, more than frontend i think.
 
 ![GitHub](https://img.shields.io/badge/GitHub-AndrewKim-blue?logo=github)
