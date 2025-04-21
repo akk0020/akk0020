@@ -1,11 +1,11 @@
-# Bootcamp & Beyond -- [__bold__Andrew Kim](https://github.com/)</p>
+# Bootcamp & Beyond -- I'm [Andrew Kim](https://github.com/)</p>
 ---
 ## <p align="right">Full Stack Web Developer In Progress</p>
 ---
 
-<p align="center">🎓 Just wrapped up my coding bootcamp.    
+<p align="center">🎓 Just wrapped up my coding bootcamp.   
 📈 Currently leveling up my repos and sharpening my skills.  
-💥 Enjoy ***backend development***, more than frontend i think.
+💥 Enjoy ***backend development***, more than frontend i think.  
 </p>
 ---
 ![GitHub](https://img.shields.io/badge/GitHub-AndrewKim-blue?logo=github)
