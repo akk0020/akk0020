@@ -1,4 +1,4 @@
-# Bootcamp & Beyond -- Andrew Kim
+<p align="center">## Bootcamp & Beyond -- # [Andrew Kim](https://github.com/)</p>
 
 ## Full Stack Web Developer In Progress
 
@@ -12,6 +12,6 @@
 
 ---
 
- |⚡ Quick to adapt | ☕ Lover of coffee | 📚 Always hungry to learn
+ |⚡ Quick to adapt | ☕ Lover of coffee | 📚 Always hungry to learn |
 
 
