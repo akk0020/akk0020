@@ -1,8 +1,10 @@
 ## Bootcamp & Beyond | [Andrew Kim](https://github.com/)</p> |
 ---
-## <p align="right">Full Stack Web Developer In Progress
-### Currently in St. Louis MO
-### Can reach me at 📬[mailto:andrew.dong.kim@gmail.com]</p>
+<div align="right">
+  <h2>Full Stack Web Developer In Progress</h2>
+  <h3>Currently in St. Louis, MO</h3>
+  <h3>Can reach me at 📬 <a href="mailto:andrew.dong.kim@gmail.com">andrew.dong.kim@gmail.com</a></h3>
+</div>
 ---
 🎓 Just wrapped up my coding bootcamp.   
 📈 Currently leveling up my repos and sharpening my skills.  
