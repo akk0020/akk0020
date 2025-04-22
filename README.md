@@ -1,12 +1,12 @@
-# Bootcamp & Beyond -- I'm [Andrew Kim](https://github.com/)</p>
+## Bootcamp & Beyond | [Andrew Kim](https://github.com/)</p> |
 ---
 ## <p align="right">Full Stack Web Developer In Progress</p>
+<p align="right"> Currently in St. Louis MO
+ Can reach me at 📬[mailto:andrew.dong.kim@gmail.com]
 ---
-
-<p align="center">🎓 Just wrapped up my coding bootcamp.   
+🎓 Just wrapped up my coding bootcamp.   
 📈 Currently leveling up my repos and sharpening my skills.  
 💥 Enjoy ***backend development***, more than frontend i think.  
-</p>
 ---
 ![GitHub](https://img.shields.io/badge/GitHub-AndrewKim-blue?logo=github)
 ![Status](https://img.shields.io/badge/Status-Learning-informational)
