@@ -2,7 +2,7 @@
 ---
 ## <p align="right">Full Stack Web Developer In Progress</p>
 <p align="right"> Currently in St. Louis MO
- Can reach me at 📬[mailto:andrew.dong.kim@gmail.com]
+ Can reach me at 📬[mailto:andrew.dong.kim@gmail.com]</p>
 ---
 🎓 Just wrapped up my coding bootcamp.   
 📈 Currently leveling up my repos and sharpening my skills.  
