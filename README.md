@@ -1,4 +1,4 @@
-## Bootcamp & Beyond | [Andrew Kim](https://github.com/)</p> 
+Bootcamp & Beyond | [Andrew Kim](https://github.com/)</p> 
 <div align="right">
   <h2>Full Stack Web Developer In Progress</h2>
   <h3>Currently in St. Louis, MO</h3>
