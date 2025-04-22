@@ -7,8 +7,8 @@
 
 ---
 
-- 🎓 Just wrapped up my coding bootcamp.
-- 📈 Currently leveling up my repos and sharpening my skills.
+- 🎓 Just wrapped up my coding **bootcamp**.
+- 📈 Currently leveling up my **repos** and sharpening my skills.
 - 💥 Enjoy **backend development** more than frontend (I think).
 
 ---
