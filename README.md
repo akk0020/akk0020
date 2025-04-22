@@ -15,7 +15,7 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-AndrewKim-blue?logo=github)
 ![Status](https://img.shields.io/badge/Status-Learning-informational)
-
+[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ---
 ⚡ Quick to adapt | ☕ Lover of coffee | 📚 Always hungry to learn |
