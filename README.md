@@ -18,7 +18,6 @@
 
 
 ---
-
- |⚡ Quick to adapt | ☕ Lover of coffee | 📚 Always hungry to learn |
+⚡ Quick to adapt | ☕ Lover of coffee | 📚 Always hungry to learn |
 
 
