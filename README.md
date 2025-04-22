@@ -5,6 +5,7 @@
   <h3>Currently in St. Louis, MO</h3>
   <h3>Can reach me at 📬 <a href="mailto:andrew.dong.kim@gmail.com">andrew.dong.kim@gmail.com</a></h3>
 </div>
+
 ---
 
 - 🎓 Just wrapped up my coding bootcamp.
